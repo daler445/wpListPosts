@@ -5,7 +5,7 @@
     Description: Make lists from posts
     Author: Azimov Daler
     Version: 1.0
-    Author URI: http://epic.tj
+    Author URI: https://github.com/daler445/
     */
     function oscimp_admin() {
     	include('unm.php');
